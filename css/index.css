@@ -1,0 +1,20 @@
+
+.bodindex{
+    background-image: url('../background.jpeg'); 
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+main h2 {
+    font-size: 36px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+main p {
+    font-size: 18px;
+    color: #fff;
+    line-height: 1.6;
+}
